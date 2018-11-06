@@ -1,1 +1,2 @@
 # BlockchainminingDapp
+version BETa
